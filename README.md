@@ -1,4 +1,4 @@
-# 我独自阅读 (vide-reading-skills)
+# 我独自阅读 (vibe-reading-skills)
 
 本项目是一个专为高品质阅读、深度学习和知识管理设计的 Gemini CLI Skill 集合。
 
@@ -20,12 +20,12 @@
 
 1. **克隆仓库**：
    ```bash
-   git clone https://github.com/wanghanlele12345/vide-reading-skills.git
+   git clone https://github.com/wanghanlele12345/vibe-reading-skills.git
    ```
 
 2. **安装 Skill**：
    ```bash
-   gemini skills install ./vide-reading-skills/book-reconstructor --scope user
+   gemini skills install ./vibe-reading-skills/book-reconstructor --scope user
    ```
 
 3. **重新加载**：
